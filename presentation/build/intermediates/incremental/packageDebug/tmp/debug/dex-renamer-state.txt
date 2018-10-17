@@ -1,0 +1,4 @@
+#Mon Oct 15 21:17:10 MSK 2018
+base.0=C\:\\Users\\stani\\Desktop\\AD02_09-2018\\Lesson8\\presentation\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

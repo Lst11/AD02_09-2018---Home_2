@@ -1,4 +1,7 @@
 package com.example.stani.lesson8.presentation.base
 
-abstract class BaseRouter {
+import android.app.Activity
+
+abstract class BaseRouter<A : Activity> (val activity: A){
+
 }

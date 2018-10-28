@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\stani\\Desktop\\AD02_09-2018\\Lesson8\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
-        "source": "C:\\Users\\stani\\Desktop\\AD02_09-2018\\Lesson8\\presentation\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\stani\\Desktop\\AD02_09-2018\\AD02_09-2018 - Home_2\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_person.xml",
+        "source": "C:\\Users\\stani\\Desktop\\AD02_09-2018\\AD02_09-2018 - Home_2\\presentation\\src\\main\\res\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\stani\\Desktop\\AD02_09-2018\\AD02_09-2018 - Home_2\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_student_list.xml",
+        "source": "C:\\Users\\stani\\Desktop\\AD02_09-2018\\AD02_09-2018 - Home_2\\presentation\\src\\main\\res\\layout\\activity_student_list.xml"
     }
 ]

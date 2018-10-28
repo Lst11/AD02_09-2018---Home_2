@@ -1,16 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
 MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\3f85f46eca82c67d84514582597707ad\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.1.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\3c7022d16c3dd4ffb1498af0eb479398\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\054c6704852e4508ad270c4385e8abbd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4a30bbcebef00f197d67f81ae7ac0c3b\AndroidManifest.xml:17:1-22:12
-MERGED from [:data] C:\Users\stani\Desktop\AD02_09-2018\Lesson8\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:domain] C:\Users\stani\Desktop\AD02_09-2018\Lesson8\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:data] C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:domain] C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\39f36d8de78d8a9a52022cf067509163\AndroidManifest.xml:17:1-30:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxbinding-kotlin-2.0.0.aar\17dec66570f3674c1e5be3b7ed4f81b1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxbinding-2.0.0.aar\4529c01532281411dd0c15f30eba725b\AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\dfe4bce4cf7a2073740c3d61187c98b5\AndroidManifest.xml:15:1-20:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\669b1f9577e06991af12da2c948756ac\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c4d8879a6833fb520e962cd3005caeef\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\45d1605603e0c83c4dffacfe7ea2344a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\97ecd848517f5e2d77e3f8a0f3c9f083\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4ed8b7820d6cf57930416a4d9f626848\AndroidManifest.xml:17:1-22:12
@@ -32,67 +37,78 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\stani\.gradle\cache
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8fd35513634e37e53dfacfe4b8a28c28\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\92a959f5973804ea51caefcf68bf0272\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cc42c8ca74aaa9ad815f1ced5085fa5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\290dc67c800494ef5b7d4b7d81f36c03\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1e90be335cab2cf6697857d7bb9a45c9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\38a9770462d30acc00684e696b079500\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ef353b7f2583a372302d7b3e8ce5d1a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2468901e94b53cd48905cba34dc747e7\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
 	package
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:2:5-40
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:1-20:12
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:1-22:12
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:4:5-19:19
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:6:5-21:19
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\39f36d8de78d8a9a52022cf067509163\AndroidManifest.xml:22:5-28:19
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\39f36d8de78d8a9a52022cf067509163\AndroidManifest.xml:22:5-28:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\669b1f9577e06991af12da2c948756ac\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\669b1f9577e06991af12da2c948756ac\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c4d8879a6833fb520e962cd3005caeef\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c4d8879a6833fb520e962cd3005caeef\AndroidManifest.xml:10:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ff55bd27a24f0266a5d9cd63696eef7e\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ff55bd27a24f0266a5d9cd63696eef7e\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b652948887bd0bebb8393e766fc8226a\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b652948887bd0bebb8393e766fc8226a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\290dc67c800494ef5b7d4b7d81f36c03\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\290dc67c800494ef5b7d4b7d81f36c03\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ff55bd27a24f0266a5d9cd63696eef7e\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:7:9-41
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:9:9-31
 	android:roundIcon
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:10:9-50
 	android:icon
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:6:9-43
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:8:9-45
 	android:allowBackup
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:5:9-35
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:10:9-40
-activity#com.example.stani.lesson8.presentation.screen.login.LoginActivity
-ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.stani.lesson8.presentation.screen.hw10.PersonActivity
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:12:19-74
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:14:19-74
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\3f85f46eca82c67d84514582597707ad\AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\3f85f46eca82c67d84514582597707ad\AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:library:3.1.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\3c7022d16c3dd4ffb1498af0eb479398\AndroidManifest.xml:22:5-44
@@ -101,12 +117,22 @@ MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\stani\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\054c6704852e4508ad270c4385e8abbd\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4a30bbcebef00f197d67f81ae7ac0c3b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4a30bbcebef00f197d67f81ae7ac0c3b\AndroidManifest.xml:20:5-44
-MERGED from [:data] C:\Users\stani\Desktop\AD02_09-2018\Lesson8\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:data] C:\Users\stani\Desktop\AD02_09-2018\Lesson8\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:domain] C:\Users\stani\Desktop\AD02_09-2018\Lesson8\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:domain] C:\Users\stani\Desktop\AD02_09-2018\Lesson8\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:data] C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:data] C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:domain] C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:domain] C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\39f36d8de78d8a9a52022cf067509163\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\39f36d8de78d8a9a52022cf067509163\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxbinding-kotlin-2.0.0.aar\17dec66570f3674c1e5be3b7ed4f81b1\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxbinding-kotlin-2.0.0.aar\17dec66570f3674c1e5be3b7ed4f81b1\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxbinding-2.0.0.aar\4529c01532281411dd0c15f30eba725b\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxbinding-2.0.0.aar\4529c01532281411dd0c15f30eba725b\AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\dfe4bce4cf7a2073740c3d61187c98b5\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\dfe4bce4cf7a2073740c3d61187c98b5\AndroidManifest.xml:18:5-43
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\669b1f9577e06991af12da2c948756ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\669b1f9577e06991af12da2c948756ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c4d8879a6833fb520e962cd3005caeef\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c4d8879a6833fb520e962cd3005caeef\AndroidManifest.xml:6:5-8:41
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\45d1605603e0c83c4dffacfe7ea2344a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\45d1605603e0c83c4dffacfe7ea2344a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\97ecd848517f5e2d77e3f8a0f3c9f083\AndroidManifest.xml:20:5-44
@@ -149,6 +175,8 @@ MERGED from [android.arch.core:runtime:1.1.1] C:\Users\stani\.gradle\caches\tran
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\92a959f5973804ea51caefcf68bf0272\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cc42c8ca74aaa9ad815f1ced5085fa5e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cc42c8ca74aaa9ad815f1ced5085fa5e\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\290dc67c800494ef5b7d4b7d81f36c03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\290dc67c800494ef5b7d4b7d81f36c03\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1e90be335cab2cf6697857d7bb9a45c9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1e90be335cab2cf6697857d7bb9a45c9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\38a9770462d30acc00684e696b079500\AndroidManifest.xml:20:5-44
@@ -157,16 +185,16 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\stani\.g
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ef353b7f2583a372302d7b3e8ce5d1a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:print:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2468901e94b53cd48905cba34dc747e7\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:print:28.0.0] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2468901e94b53cd48905cba34dc747e7\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		ADDED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\Lesson8\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		ADDED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\stani\Desktop\AD02_09-2018\AD02_09-2018 - Home_2\presentation\src\main\AndroidManifest.xml
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\stani\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\39f36d8de78d8a9a52022cf067509163\AndroidManifest.xml:23:9-27:43
 	android:authorities
